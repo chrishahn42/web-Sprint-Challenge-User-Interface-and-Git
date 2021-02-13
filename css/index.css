@@ -172,5 +172,10 @@ footer nav a {
     justify-content: center;
     border-bottom: dotted black;
 }
-.aboutpicturestop{
+.boxs{
+    border-bottom: dotted black;   
+}
+button{
+border-bottom: dotted black;
+
 }
